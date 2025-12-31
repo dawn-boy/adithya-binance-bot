@@ -1,6 +1,8 @@
 # Binance Futures Testnet Trading Bot
 A basic implementation of a Binance-based trading bot that focuses on Futures Testnet.
 
+<img width="694" height="329" alt="image" src="https://github.com/user-attachments/assets/f77cf87e-e6a9-46c9-9963-fef27cd84ebb" />
+
 ## Features
 ### Core Features
 - Market order - BUY/SELL
